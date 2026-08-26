@@ -3,7 +3,7 @@ output/
 tmp/
 
 .Rhistory
-.RDataTmp
+.RDataTmp*
 .RData
 .Rdata
 .Rproj
